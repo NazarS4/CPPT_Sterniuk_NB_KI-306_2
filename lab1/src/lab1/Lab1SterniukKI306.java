@@ -20,7 +20,7 @@ public class Lab1SterniukKI306 {
         Scanner sc = new Scanner(System.in);
 
         try {
-            //Введення розмуру матриці
+            //Введення розміру матриці
             System.out.print("Введення розмір матриці (непарне число): ");
             int n = sc.nextInt();
             sc.nextLine(); // Очистка буферу після введення числа
